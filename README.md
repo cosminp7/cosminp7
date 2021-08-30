@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cosminp7
 - 👀 I’m interested in learning programming,
-- 🌱 I’m currently learning web dev basics
-- 💞️ I’m looking to collaborate on nothing yet, 
+- 🌱 I’m currently learning web dev basics,
+- 💞️ I’m looking to collaborate on soemthing that I'll see along the line,
 - 📫 How to reach me I think they have messaging function.
 
 <!---
